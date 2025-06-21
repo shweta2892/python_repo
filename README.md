@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/shweta2892/python_repo/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/shweta2892/python_repo/tree/master/0018-4sum) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shweta2892/python_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,4 +33,8 @@
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/shweta2892/python_repo/tree/master/0024-swap-nodes-in-pairs) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shweta2892/python_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
