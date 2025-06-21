@@ -40,4 +40,8 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shweta2892/python_repo/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/shweta2892/python_repo/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
