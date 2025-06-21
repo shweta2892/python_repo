@@ -24,6 +24,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shweta2892/python_repo/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shweta2892/python_repo/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shweta2892/python_repo/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/shweta2892/python_repo/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/shweta2892/python_repo/tree/master/0029-divide-two-integers) |
